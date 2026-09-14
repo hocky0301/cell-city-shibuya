@@ -1,0 +1,19 @@
+# cell-city-shibuya
+# 方針: clone してそのまま動くこと。data/*.bin と vendor/ は **追跡する**。
+
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+*.icloud
+*conflicted copy*
+
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# ローカル専用
+*.local
+.env
+.env.*
