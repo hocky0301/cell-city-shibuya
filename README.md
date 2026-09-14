@@ -91,7 +91,8 @@ while (lsBytes > LS_CAPACITY && ls.size > 1) {   // src/spu.worker.js:31
 依存もビルドも無い。`git clone` して静的サーバを立てるだけで動く（`data/city.bin` 36.8MB と `vendor/three.js` は同梱）。
 
 ```bash
-cd cell-city-shibuya
+git clone <このリポジトリのURL>
+cd <clone先フォルダ>
 python3 -m http.server 8123
 # → http://localhost:8123
 ```
@@ -145,7 +146,7 @@ python3 -m http.server 8123
 ## 出典・ライセンス
 
 - **建物**: [国土交通省 Project PLATEAU](https://www.mlit.go.jp/plateau/) 渋谷区（13113・3D Tiles / notexture）を加工 —
-  CC BY 4.0相当（政府標準利用規約第2.0版）。
+  CC BY 4.0相当（公共データ利用規約 第1.0版・PDL1.0。一次情報: mlit.go.jp/plateau/site-policy/）。
   **配信データの年度版はパイプラインのURLに含まれておらず、このリポジトリからは特定できない**
 - **道路・鉄道**: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors (ODbL)
 - **three.js r180**: MIT License — `vendor/LICENSE`
