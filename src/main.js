@@ -151,7 +151,7 @@ function xmbShowCatMsg() { const c = CATS[xmbCat]; xmbMsg(c.msg || ''); }
 
 function showCredits() {
   openCard('クレジット', 'CELL CITY: SHIBUYA',
-    '建物: 国土交通省 Project PLATEAU 渋谷区(2020) LOD1 — CC BY 4.0相当(政府標準利用規約)を加工して作成。' +
+    '建物: 国土交通省 Project PLATEAU 渋谷区 LOD1 — CC BY 4.0相当(公共データ利用規約 第1.0版・PDL1.0)を加工して作成。' +
     '道路・鉄道: © OpenStreetMap contributors (ODbL)。' +
     'エンジン: three.js + 手書きGLSL + Web Worker ×6 (SPUシミュレーション)。' +
     '原作インスピレーション: 『2026年、PS3を開発する』——1行もコードを書けない人間がAIと組み、15年間誰も開けられなかった扉をこじ開けた記録。' +

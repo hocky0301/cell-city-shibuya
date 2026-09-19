@@ -1,31 +1,82 @@
-MIT License
+Source-Available License (Permission Required)
+Version 1.0, 2026-09-19
 
-Copyright (c) 2026 Kamil Ijuin
+Copyright (c) 2026 Kamil Ijuin. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository is published so that people can read it. It is not open
+source, and it is not free to use.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. What you may do without asking
+   - View this repository on GitHub.
+   - Download or clone it, and read, build and run it on your own machine
+     for personal, non-commercial evaluation and study.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. What you may not do without my prior written permission
+   - Use the code, documents, images or data in any product, service,
+     business, research, class or publication.
+   - Copy, modify, translate, or create derivative works from any part of it.
+   - Redistribute, publish, host, mirror, sublicense or sell any part of it,
+     in original or modified form.
+   - Use it for any commercial purpose, including internal use inside a
+     company.
+   - Use it as training, fine-tuning or evaluation data for a machine
+     learning model.
 
----
+3. How to ask
+   Open an issue in this repository, or use the contact on my GitHub profile
+   (https://github.com/hocky0301). Permission is valid only when I give it in
+   writing, and only for what it names.
 
-NOTE ON BUNDLED AND DERIVED WORKS
+4. Third-party material
+   Third-party code, data and documents included in or used by this
+   repository keep their own licenses, as listed in the README and, where
+   present, in NOTICE or THIRD_PARTY files. This license does not change
+   them.
 
-This repository bundles third-party and derived material under separate terms:
+5. No warranty
+   The work is provided "as is", without warranty of any kind. I am not
+   liable for any damage arising from its use.
 
-- vendor/three.js (r180) — MIT License. See vendor/LICENSE.
-- data/ — derived from PLATEAU (Ministry of Land, Infrastructure, Transport
-  and Tourism, Japan), CC BY 4.0. See README.md for attribution.
+6. Termination
+   Any use outside this license ends your permission under it immediately.
+
+----------------------------------------------------------------------
+
+ソース公開ライセンス（利用は許可制）
+第 1.0 版 2026-09-19
+
+Copyright (c) 2026 伊集院カミル（Kamil Ijuin）. All rights reserved.
+
+このリポジトリは、読んでもらうために公開しています。オープンソースでは
+なく、自由に使えるものでもありません。
+
+1. 許可なくできること
+   - GitHub 上で閲覧する。
+   - ダウンロード・クローンして、自分の機械で読む・ビルドする・動かす
+     （個人的な評価と学習のためで、商用でない場合に限る）。
+
+2. 私の事前の書面による許可が要ること
+   - コード・文書・画像・データを、製品・サービス・業務・研究・授業・
+     出版物で使うこと。
+   - 複製・改変・翻訳・派生物の作成。
+   - 再配布・公開・ホスティング・ミラー・再許諾・販売
+     （原型のままでも改変後でも）。
+   - 商用目的での利用（社内利用を含む）。
+   - 機械学習モデルの学習・微調整・評価データとして使うこと。
+
+3. 許可の求め方
+   このリポジトリの Issue か、GitHub プロフィール
+   （https://github.com/hocky0301）の連絡先から。許可は私が書面で与えた
+   ものだけが有効で、そこに書いた範囲に限ります。
+
+4. 第三者の素材
+   このリポジトリに含まれる、または使っている第三者のコード・データ・
+   文書は、それぞれのライセンスに従います（README や NOTICE・THIRD_PARTY
+   系のファイルに一覧）。このライセンスはそれらを変えません。
+
+5. 無保証
+   現状のまま提供し、いかなる保証もしません。利用によって生じた損害に
+   ついて責任を負いません。
+
+6. 終了
+   このライセンスの範囲外の利用があった時点で、許可は直ちに終わります。
